@@ -866,3 +866,11 @@ body {
   -o-background-size: cover;
   background-size: cover;
 }
+
+#modalContent7 {
+    background:url(../img/portfolio/background.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
