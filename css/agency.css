@@ -875,3 +875,11 @@ body {
   background-size: cover;
 }
 
+#modalContent3 {
+    background:url(../img/portfolio/WDF_1385608.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
