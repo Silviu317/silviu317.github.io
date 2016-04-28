@@ -898,3 +898,11 @@ body {
   -o-background-size: cover;
   background-size: cover;
 }
+
+#modalContent6 {
+    background:url(../img/portfolio/gray.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
