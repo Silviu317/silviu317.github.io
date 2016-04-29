@@ -612,10 +612,23 @@ section h3.section-subheading {
     border: 7px solid #fff
 }
 
-.team-member h4 {
+.team-member .team-details {
     margin-top: 25px;
     margin-bottom: 0;
-    text-transform: none
+    text-transform: none;
+}
+
+.team-member .team-details a {
+    margin-top: -2px;
+}
+
+.team-member .team-name {
+    float: left;
+    text-align: left;
+}
+
+.team-member span {
+    color: #777;
 }
 
 .team-member p {
@@ -905,4 +918,28 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+
+#modalContent8 {
+    background:url(../img/portfolio/gray.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.nm {
+    margin: 0px !important;
+}
+
+.npr {
+    padding-right: 0px !important;
+}
+
+.float-right {
+    float: right !important;
+}
+
+.float-left {
+    float: left !important;
 }
