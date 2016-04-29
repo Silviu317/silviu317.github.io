@@ -943,3 +943,9 @@ body {
 .float-left {
     float: left !important;
 }
+
+.credits {
+    text-align: left;
+    color: white;
+    font-size: 12px;
+}
